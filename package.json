@@ -6,8 +6,7 @@
   "scripts": {
     "webpack": "webpack",
     "dev": "npm run webpack  -- --mode development",
-    "prod": "npm run webpack  -- --mode production",
-    "prod:analyze": "npm run prod --analyze"
+    "prod": "npm run webpack  -- --mode production"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
