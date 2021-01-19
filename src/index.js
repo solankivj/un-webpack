@@ -1,5 +1,6 @@
-import {mod} from "./util";
+import {sum} from "./util"
 
-mod.sum(1,1)
-const packkker = () => "ddddd"
-console.log(packkker())
+
+const greet = "Hello"
+
+console.log(greet, sum(1,2))
